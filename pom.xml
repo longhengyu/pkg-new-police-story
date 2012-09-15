@@ -216,7 +216,7 @@
         <downloadSources>true</downloadSources>
         <!-- Specify AppEngine version for your project. It should match SDK version
               pointed to by ${gae.home} property (Typically, one used by your Eclipse plug-in) -->
-        <gae.version>1.4.3</gae.version>
+        <gae.version>1.7.0</gae.version>
         <!-- Upload to http://test.latest.<applicationName>.appspot.com by default -->
         <gae.application.version>test</gae.application.version>
         <datanucleus.version>1.1.5</datanucleus.version>
@@ -242,7 +242,7 @@
         <junit.version>4.5</junit.version>
         <datanucleus-appengine.version>1.0.8</datanucleus-appengine.version>
         <maven-gae-plugin.appDir>target/newpolice</maven-gae-plugin.appDir>
-        <maven-gae-plugin.sdkDir>D:\\workspace\\appengine-java-sdk-1.5.0.1\\</maven-gae-plugin.sdkDir>
+		<maven-gae-plugin.sdkDir>/Users/longhengyu/.m2/repository/com/google/appengine/appengine-java-sdk/1.7.0/appengine-java-sdk-1.7.0</maven-gae-plugin.sdkDir>
     </properties>
 
     <!--ģ��-->

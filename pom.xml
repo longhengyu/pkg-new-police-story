@@ -242,7 +242,7 @@
         <junit.version>4.5</junit.version>
         <datanucleus-appengine.version>1.0.8</datanucleus-appengine.version>
         <maven-gae-plugin.appDir>target/newpolice</maven-gae-plugin.appDir>
-		<maven-gae-plugin.sdkDir>/Users/longhengyu/.m2/repository/com/google/appengine/appengine-java-sdk/1.7.0/appengine-java-sdk-1.7.0</maven-gae-plugin.sdkDir>
+		<maven-gae-plugin.sdkDir>/home/longhengyu/.m2/repository/com/google/appengine/appengine-java-sdk/1.7.0/appengine-java-sdk-1.7.0</maven-gae-plugin.sdkDir>
     </properties>
 
     <!--ģ��-->

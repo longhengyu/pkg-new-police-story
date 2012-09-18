@@ -6,7 +6,7 @@
 </head>
 <body>
   <p>
-  Welcome to Google App Engine for Java!
+  Welcome to New Police @ pkgplan!
   </p>
   <p>
   <ul>

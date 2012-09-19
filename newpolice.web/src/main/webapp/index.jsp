@@ -6,7 +6,7 @@
 </head>
 <body>
   <p>
-  Welcome to New Police @ pkgplan! with CI, life is better.
+  Welcome to New Police @ pkgplan! With CI, Life is better.
   </p>
   <p>
   <ul>

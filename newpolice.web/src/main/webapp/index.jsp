@@ -7,6 +7,8 @@
 <body>
   <p>
   Welcome to New Police @ pkgplan! With CI, Life is better.
+  <br/>
+  give us the connection with pivotal tracker
   </p>
   <p>
   <ul>
